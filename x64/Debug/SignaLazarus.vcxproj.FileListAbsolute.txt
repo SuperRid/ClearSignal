@@ -1,0 +1,12 @@
+D:\Чм\SignaLazarus\x64\Debug\SignaLazarus.vcxproj.AssemblyReference.cache
+D:\Чм\SignaLazarus\x64\Debug\SignaLazarus.MyForm.resources
+D:\Чм\SignaLazarus\x64\Debug\SignaLazarus.vcxproj.GenerateResource.cache
+D:\Чм\SignaLazarus\x64\Debug\SignaLazarus.exe
+D:\ИТ\SignaLazarus\x64\Debug\SignaLazarus.vcxproj.AssemblyReference.cache
+D:\ИТ\SignaLazarus\x64\Debug\SignaLazarus.MyForm.resources
+D:\ИТ\SignaLazarus\x64\Debug\SignaLazarus.vcxproj.GenerateResource.cache
+D:\ИТ\SignaLazarus\x64\Debug\SignaLazarus.exe
+D:\Учеба\ИТ\SignaLazarus\x64\Debug\SignaLazarus.vcxproj.AssemblyReference.cache
+D:\Учеба\ИТ\SignaLazarus\x64\Debug\SignaLazarus.MyForm.resources
+D:\Учеба\ИТ\SignaLazarus\x64\Debug\SignaLazarus.vcxproj.GenerateResource.cache
+D:\Учеба\ИТ\SignaLazarus\x64\Debug\SignaLazarus.exe

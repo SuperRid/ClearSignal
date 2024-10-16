@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+D:\Учеба\ИТ\SignaLazarus\MyForm.cpp(62,28): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\Учеба\ИТ\SignaLazarus\MyForm.cpp(202,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  SignaLazarus.vcxproj -> D:\Учеба\ИТ\SignaLazarus\x64\Debug\SignaLazarus.exe
